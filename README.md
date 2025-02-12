@@ -1,2 +1,2 @@
-# LuxeVistaResprtApp
-Luxe Vista Resprt App
+# LuxeVistaResort
+LuxeVistaResort - Android Application
